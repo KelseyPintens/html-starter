@@ -25,3 +25,17 @@ footer {
 .flex-item {
     margin: 1em;
 }
+
+nav ul {
+    display: flex;
+    display: -webkit-flex;
+}
+
+nav li {
+    list-style: none;
+    color: burlywood
+}
+
+nav a {
+    color: greenyellow;
+}
